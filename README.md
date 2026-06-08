@@ -1,4 +1,4 @@
-# 🚀 Cambiador de Velocidad en Python (ChangeSpeed)
+# 🚀 Cambiador de Velocidad en Python (ChangeSpeed y jump)
 
 Un script sencillo en Python que permite modificar el valor de velocidad de roblox.
 
